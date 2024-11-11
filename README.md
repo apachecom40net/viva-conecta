@@ -6,3 +6,6 @@ Commercial Workshop
 
 ## :basecamp: Link to Workshop
 https://salvador-ws-1.lwctf.com
+
+## ❓ Ask to Fortinet
+[Ask](../issues/new)
