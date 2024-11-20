@@ -1,4 +1,4 @@
-# FortiCNAP-WS
+# FortiCNAPP-WS
 Commercial Workshop
 
 ## :basecampy: Link to Self Provisioning Portal
