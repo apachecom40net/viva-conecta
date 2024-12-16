@@ -5,7 +5,7 @@ Commercial Workshop
 [Partner-Demo-Tenant](https://ee.lwalliances.com/event/fortidemo)
 
 ## :basecamp: Link to Workshop
-https://salvador-ws-1.lwctf.com
+https://vivaws.lwctf.com
 
 ## ❓ Ask to Fortinet
 [Ask](./issues/new)
