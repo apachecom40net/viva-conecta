@@ -10,7 +10,7 @@ https://vivaws.lwctf.com
 
 
 ## 📖 Refereces
-https://docs.fortinet.com/document/lacework-forticnapp/latest/administration-guide/16036/getting-started-with-lacework-forticnapp
+[Lacework FortiCNAPP Doc](https://docs.fortinet.com/document/lacework-forticnapp/latest/administration-guide/16036/getting-started-with-lacework-forticnapp)
 
 
 ## ❓ Ask to Fortinet
