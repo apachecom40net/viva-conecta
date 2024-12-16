@@ -9,7 +9,7 @@ https://vivaws.lwctf.com
 
 
 
-## 📖 Refereces
+## 📖 References
 [Lacework FortiCNAPP Doc](https://docs.fortinet.com/document/lacework-forticnapp/latest/administration-guide/16036/getting-started-with-lacework-forticnapp)
 
 
