@@ -14,4 +14,4 @@ https://vivaws.lwctf.com
 
 
 ## ❓ Ask to Fortinet
-[Ask](./issues/new)
+[Ask](https://github.com/apachecom40net/viva-conecta/issues/new)
